@@ -1,4 +1,4 @@
-#  
+#  smart hooked Scripts offers the most advanced hooked Script, with auto-upgrade and god mode. Perfect for dominating any match.
 
 
 
